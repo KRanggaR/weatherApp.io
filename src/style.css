@@ -1,0 +1,9 @@
+
+
+.box{
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    grid-template-rows: 1fr 1fr;    
+    column-gap: 23px;
+    padding-left: 15px;
+}
